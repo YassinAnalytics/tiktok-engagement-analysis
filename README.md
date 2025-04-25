@@ -201,6 +201,12 @@ Next steps could be to link the results with datasets containing creators’ dat
 
 
 ## Files included
+- tiktok_viz.pdf :  PowerBi vizualisation in PDF
+- tiktok_viz.pbix :  PowerBi vizualisation in PBIX
+- tiktok_dataset : dataset Kaggle not used
+- tiktok_dataset2 : dataset Kaggle used
+- tiktok_dataset_cleaned : data set cleaned
+- tiktokdata.ipynb : Jupyter notebook
 
 
 
