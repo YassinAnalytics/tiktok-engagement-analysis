@@ -162,7 +162,7 @@ Now let’s visualize on Power BI
 ![image](https://github.com/user-attachments/assets/30ca9f57-33dc-42db-81ca-cd19047cd2d4)
 
 Delete “# “column, for the count, change type to who number, 
-Création des mesures suivantes:
+Creation of the following measures:
 -	Engagement Rate
 -	Average Video Duration
 -	Total Views
